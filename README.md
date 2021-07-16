@@ -6,6 +6,13 @@ This file together with extra sectors are located in the following Github repo h
 
 If you wish to make an update feel free to submit a Pull Request. I will be happy to review and update.
 
+NOTE! Instructions below are nont fully valid anymore since xcontest is automatically updating any airspace "File" you create and make it auto updateable. It will be overwritten by the latest file from  https://www.segelflyget.se/Verksamhet/Luftrum/. Therefore just create one empty File using isntructions below, wait 2 days and check back and make sure it has been overwritten and update. You only need to do this once. No need to do bi-yearly or so.
+
+All the other airspaces like Gärdet and Barkarby etc are going into extra_SE file. Make sure to not set "Auto-update layer" otherwise it wil be overwritten with the "Luftrum" airspace like described above.
+
+
+
+# NOT Fully Valit anymore
 ## Main file update
 Get the main file from Glider page here at the bottom, choose TXT format.
 https://www.segelflyget.se/Verksamhet/Luftrum/
